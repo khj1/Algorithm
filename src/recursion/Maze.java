@@ -1,4 +1,4 @@
-package section1;
+package recursion;
 
 public class Maze {
 	private static int N = 8; //출구는 N-1, N-1

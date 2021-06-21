@@ -1,4 +1,4 @@
-package section1;
+package recursion;
 
 public class A01Recursion {
 
