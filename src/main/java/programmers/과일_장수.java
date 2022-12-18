@@ -6,7 +6,7 @@ import java.util.Collections;
 /*
 https://school.programmers.co.kr/learn/courses/30/lessons/135808
  */
-public class 과일장수 {
+public class 과일_장수 {
 
 	public int solution(int k, int m, int[] score) {
 		int answer = 0;

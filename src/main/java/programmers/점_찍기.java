@@ -3,7 +3,7 @@ package programmers;
 /*
 https://school.programmers.co.kr/learn/courses/30/lessons/140107
  */
-public class 점찍기 {
+public class 점_찍기 {
 
 	public long solution(int k, int d) {
 		long answer = 0;
